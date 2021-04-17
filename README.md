@@ -2,7 +2,7 @@
 # {Brian Kulei}
 # {Website Page}
 #### {It is and html website of My Favorite Band }, {Date of current version}
-#### [MY FAVORITE BAND html link](brian6382.github.io/my-favorite-band)
+#### [MY FAVORITE BAND html link](brian6382.github.io/my-favorite-band/)
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## project setup instructions
