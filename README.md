@@ -4,7 +4,7 @@
 #### {It is and html website of My Favorite Band }, {Date of current version}
 #### [MY FAVORITE BAND html link](brian6382.github.io/my-favorite-band/)
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{It is a html website page use for entertainment purpose eg. music entertainment  }
 ## project setup instructions
 #install vs code.
 *Step 1: Open vscode on your computer
@@ -12,13 +12,12 @@
 *Step 3: Write Some HTML. in index.html file.
 *Step 4: Save the HTML Page. Save the file on your computer. ...
 *Step 5: View the HTML Page in Your Browser.
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+{NOT: you dont need to run a server}
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+{Helps people to easy their minds and most of all to relax }
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+{I have used html and css of which html is used for creating the structure while css is to style the structure itself}
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+{visit the link above or call +2540786969}
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) [year2021]  **{MIT License}**
